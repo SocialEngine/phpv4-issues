@@ -1,9 +1,10 @@
 # SocialEngine PHP V4 Issue Tracker
 [![](http://img.shields.io/badge/open-new_issue-red.svg?style=flat)](https://github.com/SocialEngine/phpv4-issues/issues/new) [![](http://img.shields.io/badge/get-support-green.svg?style=flat)](https://www.socialengine.com/client/ticket/create)
+[![](https://img.shields.io/badge/open-new%20feature-brightgreen.svg)](https://github.com/SocialEngine/phpv4-feature-requests/issues/new)
 
-Welcome to the [SocialEngine PHP](http://www.socialengine.com) v4 bug tracker!
+Welcome to the [SocialEngine PHP](http://www.socialengine.com) v4 bug tracker! 
 
-If you're experiencing a problem and are looking for quick answers, please see our [Support page](http://www.socialengine.com/support). If you think your problem is a bug, follow these steps to submit a bug report or a feature request:
+If you're experiencing a problem and are looking for quick answers, please see our [Support page](http://www.socialengine.com/support). If you think your problem is a bug, follow these steps to submit a bug report:
 
 1. Ensure you have a github account, registration is free
 2. Use the search bar at the top to check if the issue was already reported. Sometimes you will be able to find workarounds from other users.
@@ -11,3 +12,5 @@ If you're experiencing a problem and are looking for quick answers, please see o
 4. Leave a detailed report describing the issue, which module it occured in, what version of SE PHP you're running and any error logs or other pertaining information. 
 
 If you would like to receive technical support, please visit our [Open Support Ticket](https://www.socialengine.com/sign-in?redirect=%2Fclient%2Fticket%2Fcreate) page.
+
+If you have a feature to submit, please view our [**Feature Requests**](https://github.com/SocialEngine/phpv4-feature-requests/) page.
