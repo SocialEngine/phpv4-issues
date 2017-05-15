@@ -14,7 +14,7 @@ reciprocate that respect in addressing your issue or feature requests.
 ## Using the issue tracker
 
 The [issue tracker](https://github.com/SocialEngine/phpv4-issues/issues) is
-the preferred channel for [bug reports](#bugs) and [features requests](#features), 
+the preferred channel for [bug reports](#bugs), 
 but please respect the following restrictions:
 
 * Please **do not** use the issue tracker for personal support requests (use
@@ -70,7 +70,4 @@ Example:
 <a name="features"></a>
 ## Feature requests
 
-Feature requests are welcome. But take a moment to find out whether your idea
-fits with the scope and aims of SocialEngine. It's up to *you* to make a strong
-case to convince the SocialEngine's developers of the merits of this feature. Please
-provide as much detail and context as possible.
+Feature requests are welcome. Please suggest features in our [**Feature Requests**](https://github.com/SocialEngine/phpv4-feature-requests/) page
