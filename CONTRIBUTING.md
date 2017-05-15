@@ -18,6 +18,7 @@ the preferred channel for [bug reports](#bugs),
 but please respect the following restrictions:
 
 * Please **do not** use the issue tracker for personal support requests (use
+  the [SocialEngine Community](https://community.onsocialengine.com/hot),
   [Stack Overflow](http://stackoverflow.com/questions/tagged/socialengine)
   or other channels).
 
