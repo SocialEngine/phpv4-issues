@@ -1,7 +1,7 @@
 # SocialEngine PHP V4 Issue Tracker
 [![](http://img.shields.io/badge/open-new_issue-red.svg?style=flat)](https://github.com/SocialEngine/phpv4-issues/issues/new) [![](http://img.shields.io/badge/get-support-green.svg?style=flat)](https://www.socialengine.com/client/ticket/create)
 
-Welcome to the [SocialEngine PHP](http://www.socialengine.com) v4 bug tracker and feature suggestion page!
+Welcome to the [SocialEngine PHP](http://www.socialengine.com) v4 bug tracker!
 
 If you're experiencing a problem and are looking for quick answers, please see our [Support page](http://www.socialengine.com/support). If you think your problem is a bug, follow these steps to submit a bug report or a feature request:
 
