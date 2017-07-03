@@ -3,7 +3,7 @@
 [![](http://img.shields.io/badge/get-support-green.svg?style=flat)](https://www.socialengine.com/client/ticket/create)
 [![](https://img.shields.io/badge/open-new%20feature-brightgreen.svg)](https://community.socialengine.com/forums/8/feature-requests)
 
-Welcome to the [SocialEngine PHP](http://www.socialengine.com) v4 bug tracker! 
+Welcome!  [SocialEngine PHP](http://www.socialengine.com) has a new bug tracker at our community! 
 
 If you're experiencing a problem and are looking for quick answers, please see our [Support page](http://www.socialengine.com/support). 
 
