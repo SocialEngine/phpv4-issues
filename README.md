@@ -1,6 +1,7 @@
 # SocialEngine PHP V4 Issue Tracker
-[![](http://img.shields.io/badge/open-new_issue-red.svg?style=flat)](https://github.com/SocialEngine/phpv4-issues/issues/new) [![](http://img.shields.io/badge/get-support-green.svg?style=flat)](https://www.socialengine.com/client/ticket/create)
-[![](https://img.shields.io/badge/open-new%20feature-brightgreen.svg)](https://github.com/SocialEngine/phpv4-feature-requests/issues/new)
+[![](http://img.shields.io/badge/open-new_issue-red.svg?style=flat)](https://community.socialengine.com/forums/9/issue-reports) 
+[![](http://img.shields.io/badge/get-support-green.svg?style=flat)](https://www.socialengine.com/client/ticket/create)
+[![](https://img.shields.io/badge/open-new%20feature-brightgreen.svg)](https://community.socialengine.com/forums/8/feature-requests)
 
 Welcome to the [SocialEngine PHP](http://www.socialengine.com) v4 bug tracker! 
 
